@@ -1,7 +1,7 @@
 # Jejaknesia-Machine-Learning-Models
 
 ## Recommendation System
-We are going to make recommendation system or recommender sytem to give user recommendation for traveling based on their preference.
+We are going to make recommendation system or recommender system to give user recommendation for traveling based on their preference.
 
 ## Datasets
 - Dummy Dataset
